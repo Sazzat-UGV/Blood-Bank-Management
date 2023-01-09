@@ -14,6 +14,8 @@ Features:(Admin)
 6. Remove Admin/Moderator Details
 7. Change Profile Picture
 8. Change Password
+
+
 Features:(Donor)
 1. Have a Registration Page for new donor
 2. Change Profile Picture
