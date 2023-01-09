@@ -3,8 +3,11 @@ Blood Bank Management System Using PHP
 
 
 Frontend: HTML, CSS,  Bootstrap, JS
+
 Backend: PHP
+
 Database: MySQL
+
 Features:(Admin)
 1. Add New Donor
 2. Modify Donor Details
